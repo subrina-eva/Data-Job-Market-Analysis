@@ -1,4 +1,4 @@
-# Excel Data Analytics Projects       
+# Data Job Market and Salary Analysis       
 A project demonstrates my Excel expertise in data analytics through dynamic dashboards and detailed analyses of salary trends and skills in the data industry.
 
 ## Salary Dashboard  
