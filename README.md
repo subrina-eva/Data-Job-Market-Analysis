@@ -1,4 +1,4 @@
-# Data Job Market and Salary Analysis       
+<h1 align="center">Data Job Market and Salary Analysis</h1>       
 A project demonstrates my Excel expertise in data analytics through dynamic dashboards and detailed analyses of salary trends and skills in the data industry.
 
 ## Salary Dashboard  
